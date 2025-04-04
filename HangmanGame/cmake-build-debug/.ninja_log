@@ -1,0 +1,23 @@
+# ninja log v6
+1	405	7654834408702381	CMakeFiles/hangman.dir/main.cpp.obj	d414de7fccbc2ace
+1	191	7654837587513347	build.ninja	b4d151f6d9646717
+5	408	7654837587748624	CMakeFiles/hangman.dir/WordProvider.cpp.obj	c03ef02ae3d1d107
+3	429	7654837587728652	CMakeFiles/hangman.dir/main.cpp.obj	d414de7fccbc2ace
+7	441	7654837587768465	CMakeFiles/hangman.dir/HangmanGame.cpp.obj	31c9a08049a01a57
+441	526	7654837592109268	hangman.exe	aebcfda169ce1082
+3	412	7654842286204193	CMakeFiles/hangman.dir/HangmanGame.cpp.obj	31c9a08049a01a57
+413	503	7654842290290831	hangman.exe	aebcfda169ce1082
+4	919	7654843931104649	CMakeFiles/hangman.dir/main.cpp.obj	d414de7fccbc2ace
+920	1120	7654843940265138	hangman.exe	aebcfda169ce1082
+3	411	7654844617168400	CMakeFiles/hangman.dir/HangmanGame.cpp.obj	31c9a08049a01a57
+412	497	7654844621246419	hangman.exe	aebcfda169ce1082
+3	402	7654848164910421	CMakeFiles/hangman.dir/HangmanGame.cpp.obj	31c9a08049a01a57
+402	484	7654848168906096	hangman.exe	aebcfda169ce1082
+3	406	7654853595030784	CMakeFiles/hangman.dir/main.cpp.obj	d414de7fccbc2ace
+407	493	7654853599073875	hangman.exe	aebcfda169ce1082
+3	409	7654854485584373	CMakeFiles/hangman.dir/main.cpp.obj	d414de7fccbc2ace
+410	493	7654854489655411	hangman.exe	aebcfda169ce1082
+3	414	7654855168883620	CMakeFiles/hangman.dir/main.cpp.obj	d414de7fccbc2ace
+415	498	7654855172999256	hangman.exe	aebcfda169ce1082
+4	428	7654860723220617	CMakeFiles/hangman.dir/main.cpp.obj	d414de7fccbc2ace
+428	526	7654860727474932	hangman.exe	aebcfda169ce1082

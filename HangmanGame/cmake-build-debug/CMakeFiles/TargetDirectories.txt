@@ -1,0 +1,3 @@
+C:/Users/Amelia Roibu/Desktop/FMI type shit/POO/prosteala/hangman/cmake-build-debug/CMakeFiles/hangman.dir
+C:/Users/Amelia Roibu/Desktop/FMI type shit/POO/prosteala/hangman/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Amelia Roibu/Desktop/FMI type shit/POO/prosteala/hangman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
